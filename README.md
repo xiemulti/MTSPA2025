@@ -1,4 +1,4 @@
-## checkpoints:
+## checkpoints (trained on 8-band trainset):
 - 链接：https://pan.baidu.com/s/1nIEQTLYbFzxytQ-mzccAnA?pwd=qy5u  
 - 提取码：`qy5u`
 
