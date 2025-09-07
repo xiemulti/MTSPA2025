@@ -2,6 +2,6 @@
 - 链接：https://pan.baidu.com/s/1nIEQTLYbFzxytQ-mzccAnA?pwd=qy5u  
 - 提取码：`qy5u`
 
-## datasets:
+## 8-band multispectral image datasets:
 - 链接：https://pan.baidu.com/s/1fnqNKvPpK7_oIWBMX2LAsA?pwd=jam1  
 - 提取码：`jam1`
